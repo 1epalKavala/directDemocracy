@@ -230,7 +230,7 @@
 - 🔗 [Ιστολόγιο e-me (αρχική παρουσίαση)](https://blogs.e-me.edu.gr/hive-a-l-a-d-t-k345cdfgdfg/?lang=el)
 - 🔗 [Loomio πιλοτική εγκατάσταση](https://loomio.kvln.online)
 - 🔗 [ZEUS – GRNET](https://grnet.gr/services/digital-services/zeus/)
-- 🔗 [Decidim – Βαρκελώνη](https://decidim.barcelona/)
+- 🔗 [Decidim](https://decidim.org/)
 
 ---
 
